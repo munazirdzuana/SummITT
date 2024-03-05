@@ -50,6 +50,7 @@ public class MainActivity extends AppCompatActivity {
     private static final int REQUEST_RECORD_AUDIO_PERMISSION = 200;
     private Button startButton;
     private Button summ;
+
     private TextView resultTextView;
     private ProgressBar progressBar;
     private boolean permissionToRecordAccepted = false;
